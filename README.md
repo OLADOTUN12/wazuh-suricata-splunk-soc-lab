@@ -156,7 +156,7 @@ nmap -sS TARGET-IP
 
 ### Evidence
 
-![Nmap Detection](screenshots/nmap-detection.png)
+![Nmap Detection](nmap-detection.png.png)
 
 ---
 
