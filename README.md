@@ -84,8 +84,7 @@ Suricata alerts were successfully collected by Wazuh and displayed in the Wazuh 
 
 Screenshot:
 
-![Suricata Alerts](inputs-config.png.png)
-![Suricata Alerts](forwarder-config.png.png)
+![Suricata Alerts](wazuh-suricata-alerts.png.png)
 
 ---
 
@@ -123,7 +122,9 @@ sudo /opt/splunkforwarder/bin/splunk add monitor /var/ossec/logs/alerts/alerts.j
 
 Screenshot:
 
-![Forwarder](screenshots/forwarder-config.png)
+![Forwarder](forwarder-config.png.png)
+![Forwarder](inputs-config.png.png)
+
 
 ---
 
