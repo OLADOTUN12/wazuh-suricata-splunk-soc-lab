@@ -84,7 +84,7 @@ Suricata alerts were successfully collected by Wazuh and displayed in the Wazuh 
 
 Screenshot:
 
-![Suricata Alerts](screenshots/wazuh-suricata-alerts.png)
+![Suricata Alerts](wazuh-suricata-alerts.png.png)
 
 ---
 
