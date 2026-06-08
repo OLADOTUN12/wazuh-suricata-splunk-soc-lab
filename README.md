@@ -134,7 +134,7 @@ Logs successfully received in Splunk.
 
 Screenshot:
 
-![Splunk Dashboard](screenshots/splunk-dashboard.png)
+![Splunk Dashboard](splunk-dashboard.png.png)
 
 ---
 
