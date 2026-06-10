@@ -176,7 +176,7 @@ hydra
 
 ### Evidence
 
-![Bruteforce Detection](screenshots/bruteforce-detection.png)
+![Bruteforce Detection](bruteforce-detection.png.png)
 
 ---
 
