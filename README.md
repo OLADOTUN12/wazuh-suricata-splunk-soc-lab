@@ -196,7 +196,7 @@ sqlmap
 
 ### Evidence
 
-![SQLMap Detection](screenshots/sqlmap-detection.png)
+![SQLMap Detection](sqlmap-detection.png.png)
 
 ---
 
