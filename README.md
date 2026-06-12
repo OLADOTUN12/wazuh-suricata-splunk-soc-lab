@@ -70,7 +70,6 @@ Attacker
 - Splunk Universal Forwarder
 - Linux
 - JSON
-- Syslog
 
 ---
 
@@ -230,19 +229,6 @@ index=main sourcetype=wazuh
 | stats count by rule.level
 ```
 
----
-
-# MITRE ATT&CK Mapping
-
-| Attack | ATT&CK ID |
-|----------|------------|
-| Port Scan | T1046 |
-| Brute Force | T1110 |
-| Command Execution | T1059 |
-| Discovery | T1087 |
-
----
-
 # Key Skills Demonstrated
 
 - SIEM Deployment
@@ -284,4 +270,4 @@ Successfully implemented a SOC monitoring environment capable of:
 
 OLADOTUN
 
-Cybersecurity Analyst | SOC Analyst | SIEM Engineer
+Cybersecurity Analyst | SOC Analyst |
